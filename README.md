@@ -10,13 +10,13 @@ After importing the library, this is how you can use it.
 
 If the user doesn't want the file and therefore deletes it, you can acutally do this in this way.
 
-  fileManager.delete(generatedLocalPathOfFile);
+    fileManager.delete(generatedLocalPathOfFile);
 
 THATS ALL!! You are all set :)
 
 What have I done?
 It creates 5 tree of folders that each can comprise of 98 sub-folders, and these 98 subfolders until it reaches towards the tip have subfolders, that has the files stored. So, it can literally store- 
 
-98*98*98*98*98 = 9039207968; //HASSLE FREE!! 
+98*98*98*98*98 = 9039207968 files; // 9 BILLION FILES!! HASSLE FREE!! 
 
 
